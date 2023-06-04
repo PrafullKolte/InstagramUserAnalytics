@@ -1,0 +1,3 @@
+# InstagramUserAnalytics
+This project is about how the users engage and interact with Instagram. 
+This project is about how the users engage and interact with Instagram. We will analyse these users in an attempt to derive business insights for marketing, product & development teams. These insights are then used  by teams across the business to launch a new marketing campaign,  decide on features to build for an app, track the success of the app by  measuring user engagement and improve the experience altogether while  helping the business grow.![image](https://github.com/PrafullKolte/InstagramUserAnalytics/assets/135483681/282b8bb9-9755-4e84-989e-966117c79b33)
